@@ -1,7 +1,7 @@
 
 # Technohacks-Edutech-Data-Analytics-Internship
 
-Welcome to the Technohacks Edutech Data Analytics Internship repository! In this one-month internship, you will dive into the world of data analytics, where you'll have the opportunity to work on various projects ranging from data cleaning to data visualization. Let's explore what this internship has to offer.
+Welcome to the Technohacks Edutech Data Analytics Internship repository! In this internship, I have dived into the world of data analytics, where I worked on various projects ranging from data cleaning to data visualization. Let's explore what this internship.
 
 ## Tools
 
@@ -45,6 +45,3 @@ Throughout the internship, you'll encounter some key insights, including:
 - **Dealing with Null Values**: You will learn how to handle 10% of null values in the dataset, which can be done by either removing columns or rows or replacing them with the median.
 - **Handling Outliers**: As part of the process, you will address 15 outliers in the dataset, improving data quality.
 
-## Conclusion
-
-Thank you for exploring our Technohacks Edutech Data Analytics Internship repository. We hope you find this experience insightful and valuable as you embark on your data analytics journey. Should you have any questions or need further guidance, please don't hesitate to reach out. 
