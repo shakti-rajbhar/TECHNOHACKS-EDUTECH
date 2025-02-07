@@ -12,8 +12,6 @@ For the tasks in this internship, we primarily use **Python**, a versatile progr
 - **Data Distribution**: Python is used to see the data distribution of the dataset by using histogram/bar charts.
 - **Duplicate Values**: Python is also used to deal with duplicate values in the dataset.
 
-## Tasks
-
 ### Task 1: Data Cleaning
 In this task,I perform data cleaning, focusing on removing null values and outliers. The key libraries used for this task are:
 - **Pandas**: Used for data manipulation and analysis.
