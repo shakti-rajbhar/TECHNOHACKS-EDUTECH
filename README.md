@@ -1,7 +1,7 @@
 
 ## Technohacks-Edutech-Data-Analytics-Internship
 
-Welcome to the Technohacks Edutech Data Analytics Internship repository! In this internship, I have dived into the world of data analytics, where I worked on various projects ranging from data cleaning to data visualization. Let's explore this internship.
+Welcome to the Technohacks Edutech Data Analytics Internship repository! In this internship, I have dived into data analytics, where I worked on various projects ranging from data cleaning to data visualization. Let's explore this internship.
 
 ## Tools
 
